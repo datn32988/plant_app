@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">752033387944</string>
+    <string name="google_api_key" translatable="false">AIzaSyDrC1bVPXbc6kJB3q52e7NWkyovWPqDes0</string>
+    <string name="google_app_id" translatable="false">1:752033387944:android:ad287dbb1d6966b954799d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDrC1bVPXbc6kJB3q52e7NWkyovWPqDes0</string>
+    <string name="google_storage_bucket" translatable="false">plant-app-9cdae.firebasestorage.app</string>
+    <string name="project_id" translatable="false">plant-app-9cdae</string>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>
