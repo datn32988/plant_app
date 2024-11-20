@@ -26,10 +26,22 @@ Dự án sử dụng flutter để vẽ app plant_app
     <td><img src="images/Cart.png" width="300" /></td>
   </tr>
   <tr>
-    <td>Ảnh 1</td>
-    <td>Ảnh 2</td>
-    <td>Ảnh 1</td>
-    <td>Ảnh 2</td>
+    <td>Ảnh Login</td>
+    <td>Ảnh SingUp</td>
+    <td>Ảnh Trang chủ</td>
+    <td>Ảnh Cart</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="images/Detial.png" width="300" /></td>
+    <td><img src="images/Profile.png" width="300" /></td>
+
+  </tr>
+  <tr>
+    <td>Ảnh Detial</td>
+    <td>Ảnh Profile</td>
+
   </tr>
 </table>
 
