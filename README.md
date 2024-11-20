@@ -18,6 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Mô tả dự án 
 Dự án sử dụng flutter để vẽ app plant_app
-![Demo App](https://drive.google.com/file/d/1z5AS7Teo_TUDu_EDtDM5GDMc_d-Lg03a/view?usp=sharing)
+![Demo App](https://drive.google.com/uc?export=view&id=1z5AS7Teo_TUDu_EDtDM5GDMc_d-Lg03a)
 
 
